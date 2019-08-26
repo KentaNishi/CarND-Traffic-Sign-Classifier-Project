@@ -230,13 +230,13 @@ Only fifth image was mistaken, but the top five soft max probabilities contains 
 
 |Correct Answer|Prediction result (top five)|
 |:------------:|:--------------------------:|
-|Right-of-way at the next intersection|Right-of-way at the next intersection:100.000%,Stop:0.000%,Wild animals crossing:0.000%,Vehicles over 3.5 metric tons prohibited:0.000%,Speed limit (30km/h):0.000%|
-|Yield|Yield:100.000%,Road narrows on the right:0.000%,Children crossing:0.000%,Speed limit (20km/h):0.000%,Speed limit (30km/h):0.000%|
-|Speed limit (60km/h)|Speed limit (60km/h):99.900%,SignName:0.054%,Speed limit (20km/h):0.046%,No vehicles:0.000%,Speed limit (100km/h):0.000%|
-|No passing for vehicles over 3.5 metric tons|No passing for vehicles over 3.5 metric tons:100.000%,Traffic signals:0.000%,Bicycles crossing:0.000%,Speed limit (20km/h):0.000%,No entry:0.000%|
-|No entry|Speed limit (20km/h):100.000%,Speed limit (120km/h):0.000%,Speed limit (50km/h):0.000%,No entry:0.000%,No passing for vehicles over 3.5 metric tons:0.000%|
-|Priority road|Priority road:100.000%,Stop:0.000%,Speed limit (50km/h):0.000%,Speed limit (120km/h):0.000%,Turn left ahead:0.000%|
-|Vehicles over 3.5 metric tons prohibited|Vehicles over 3.5 metric tons prohibited:100.000%,Yield:0.000%,Road narrows on the right:0.000%,No passing:0.000%,Speed limit (120km/h):0.000%|
+|Priority road|Priority road:100.000%,No vehicles:0.000%,End of all speed and passing limits:0.000%,No entry:0.000%,Speed limit (50km/h):0.000%|
+|Stop|Stop:100.000%,Road work:0.000%,Bicycles crossing:0.000%,Speed limit (30km/h):0.000%,Speed limit (50km/h):0.000%|
+|Speed limit (70km/h)|Speed limit (70km/h):99.900%,Speed limit (20km/h):0.054%,Speed limit (30km/h):0.046%,Vehicles over 3.5 metric tons prohibited:0.000%,Speed limit (120km/h):0.000%|
+|Right-of-way at the next intersection|Right-of-way at the next intersection:100.000%,Pedestrians:0.000%,Beware of ice/snow:0.000%,Speed limit (30km/h):0.000%,General caution:0.000%|
+|General caution|Speed limit (30km/h):100.000%,No passing:0.000%,Speed limit (60km/h):0.000%,General caution:0.000%,Right-of-way at the next intersection:0.000%|
+|Yield|Yield:100.000%,No vehicles:0.000%,Speed limit (60km/h):0.000%,No passing:0.000%,Ahead only:0.000%|
+|No entry|No entry:100.000%,Stop:0.000%,Road work:0.000%,No passing for vehicles over 3.5 metric tons:0.000%,No passing:0.000%|
 
 ![alt text][image10]
 
