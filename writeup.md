@@ -229,6 +229,7 @@ For the first image, the model is relatively sure that this is a "Right-of-way a
 Only fifth image was mistaken, but the top five soft max probabilities contains correct answer.
 
 |Correct Answer|Prediction result (top five)|
+|:------------:|:--------------------------:|
 |Right-of-way at the next intersection|Right-of-way at the next intersection:100.000%,Stop:0.000%,Wild animals crossing:0.000%,Vehicles over 3.5 metric tons prohibited:0.000%,Speed limit (30km/h):0.000%|
 |Yield|Yield:100.000%,Road narrows on the right:0.000%,Children crossing:0.000%,Speed limit (20km/h):0.000%,Speed limit (30km/h):0.000%|
 |Speed limit (60km/h)|Speed limit (60km/h):99.900%,SignName:0.054%,Speed limit (20km/h):0.046%,No vehicles:0.000%,Speed limit (100km/h):0.000%|
