@@ -24,7 +24,7 @@ The goals / steps of this project are the following:
 [image3]: ./examples_change_luminance.png "Change luminance"
 [image4]: ./examples_change_perspective.png "Change perspective"
 [image5]: ./figure_epoch200_rate_0.0001_batch128.png "Lenet result"
-[image6]: ./self_difined_CNN_figure_epoch200_rate_0.0001_batch128_is_rgb1.png "Self difined CNN result"
+[image6]: ./self_difined_CNN_last_ver_with_data_augumentation_figure_epoch1000_rate_0.0001_batch1024_is_rgb1.png "Self difined CNN result"
 [image7]: ./data_distribution.png "data distribution"
 [image8]: ./new_images.png "images from web"
 [image9]: ./data_distribution_with_data_augumentation.png "data distribution with data augumentation"
@@ -124,8 +124,9 @@ My final model consisted of the following layers:
 | Max pooling	      	| 2x2 stride,  outputs 4x4x80			    	        |
 | Fully connected		| inputs:1280, outputs 300       				        |
 | RELU					|												        |
-| Fully connected		| inputs:300, outputs 200       				        |
-
+| Fully connected		| inputs:300, outputs 100       				        |
+| RELU					|												        |
+| Fully connected		| inputs:100, outputs 43           				        |
 
 
 
