@@ -92,15 +92,21 @@ The difference between the original data set and the augmented data set is the f
 
 
 Before:
+
 Number of training examples = 34799
+
 Number of validation examples = 4410
+
 Number of testing examples = 12630
 
 ![alt text][image7]
 
 After:
+
 Number of training examples = 439157
+
 Number of validation examples = 55680
+
 Number of testing examples = 159390
 
 ![alt text][image9]
@@ -172,6 +178,7 @@ INFO:tensorflow:Restoring parameters from ./self_difined_CNN_last_ver_with_data_
 * Valid data Loss : 0.4036143529004064
 * Test data Accuracy : 0.9327749545514804
 * Test data Loss : 0.5342465304477249
+
 If an iterative approach was chosen:
 * What was the first architecture that was tried and why was it chosen?
  My first architecture is Lenet. Because this was explaned in the class.
