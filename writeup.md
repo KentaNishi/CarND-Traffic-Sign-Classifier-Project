@@ -165,13 +165,13 @@ if i>100:
 #### 4. Describe the approach taken for finding a solution and getting the validation set accuracy to be at least 0.93. Include in the discussion the results on the training, validation and test sets and where in the code these were calculated. Your approach may have been an iterative process, in which case, outline the steps you took to get to the final solution and why you chose those steps. Perhaps your solution involved an already well known implementation or architecture. In this case, discuss why you think the architecture is suitable for the current problem.
 
 My final model results were:
-INFO:tensorflow:Restoring parameters from ./self_difined_CNN_is_rgb1
-* Train data Accuracy : 0.9990229604298974
-* Train data Loss : 0.0032433503668724863
-* Valid data Accuracy : 0.9594104311093181
-* Valid data Loss : 0.2834610542641475
-* Test data Accuracy : 0.9442596992706366
-* Test data Loss : 0.38506891723672076
+INFO:tensorflow:Restoring parameters from ./self_difined_CNN_last_ver_with_data_augumentation_is_rgb1
+* Train data Accuracy : 0.9978299332487207
+* Train data Loss : 0.006321019644243348
+* Valid data Accuracy : 0.9508261492882651
+* Valid data Loss : 0.4036143529004064
+* Test data Accuracy : 0.9327749545514804
+* Test data Loss : 0.5342465304477249
 If an iterative approach was chosen:
 * What was the first architecture that was tried and why was it chosen?
  My first architecture is Lenet. Because this was explaned in the class.
